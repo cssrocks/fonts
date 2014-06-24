@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'BrutalTypeBold';
+	src: url('BrutalType-Bold.eot');
+	src:
+	     url('BrutalType-Bold.eot?#iefix') format('embedded-opentype'),
+	     url('BrutalType-Bold.woff') format('woff'),
+	     url('BrutalType-Bold.ttf') format('truetype'),
+	     url('BrutalType-Bold.svg#BrutalType-Bold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
